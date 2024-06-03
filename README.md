@@ -12,5 +12,4 @@ An open-source Backgammon implementation written in Python.
 - App icon
 - Dev menu 🤓
 
-
-Made with ❤️ during summer semester 2023 in Ústí nad Labem.
+Made with ❤️ during summer semester 2023 in Ústí nad Labem by Sabina Ajksnerová & Hynek Půta.
